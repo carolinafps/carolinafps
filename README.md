@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img align="left" alt="gifme" src="https://i.picasion.com/pic92/078b08ff2b302802777627bcaa932d20.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a>
+<img align="left" alt="gifme" src="https://i.picasion.com/pic92/078b08ff2b302802777627bcaa932d20.gif" width="250" height="250" border="0" alt="https://picasion.com/" /></a>
 </div>
 
   <div style="display: inline_block"><br>
