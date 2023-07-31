@@ -10,11 +10,14 @@
   
   ##
 
-  🖥️ Aprendiz de JScript 
+  🖥️ Aprendiz de Programação
+  -CSS
+  -HTML
+  -JAVASCRIPT
 
   👾 Gamer a mais de 20 anos.
 
-  💕 Me siga no insta:https://www.instagram.com/carolinda_fps/
+  💕Insta:https://www.instagram.com/carolinda_fps/
 
   🥓 https://beacons.ai/carolinda_fps
   ##
