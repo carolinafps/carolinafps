@@ -13,10 +13,8 @@
   🖥️ Aprendiz de Programação
   #
   CSS
-  #
   HTML
-  #
-  JAVASCRIPT
+  JS
 
   👾 Gamer a mais de 20 anos.
 
