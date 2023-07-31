@@ -12,11 +12,8 @@
 
   🖥️ Aprendiz de Programação
   #
-  CSS
-  HTML
-  JS
-
-  👾 Gamer a mais de 20 anos.
+ 
+   👾 Gamer a mais de 20 anos.
 
   💕Insta:https://www.instagram.com/carolinda_fps/
 
