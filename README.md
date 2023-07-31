@@ -11,8 +11,8 @@
   ##
 
   🖥️ Aprendiz de Programação
-  #
- 
+
+   
    👾 Gamer a mais de 20 anos.
 
   💕Insta:https://www.instagram.com/carolinda_fps/
